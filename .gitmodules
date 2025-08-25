@@ -1,0 +1,33 @@
+[submodule "GoogleHackathon2025_ArogyaLens"]
+	path = GoogleHackathon2025_ArogyaLens
+	url = https://github.com/Aryavarta-Labs/GoogleHackathon2025_ArogyaLens.git
+[submodule "Databricks-challenge2024-SmartMarkQuery"]
+	path = Databricks-challenge2024-SmartMarkQuery
+	url = https://github.com/Aryavarta-Labs/Databricks-challenge2024-SmartMarkQuery.git
+[submodule "Databricks-challenge2024-classifier"]
+	path = Databricks-challenge2024-classifier
+	url = https://github.com/Aryavarta-Labs/Databricks-challenge2024-classifier.git
+[submodule "GCP-Hackathon-2024-vidyaai"]
+	path = GCP-Hackathon-2024-vidyaai
+	url = https://github.com/Aryavarta-Labs/GCP-Hackathon-2024-vidyaai.git
+[submodule "SAP-Hackathon-2021-WELLTRACK-APP"]
+	path = SAP-Hackathon-2021-WELLTRACK-APP
+	url = https://github.com/Aryavarta-Labs/SAP-Hackathon-2021-WELLTRACK-APP.git
+[submodule "SIH-2019-URJA-APP"]
+	path = SIH-2019-URJA-APP
+	url = https://github.com/Aryavarta-Labs/SIH-2019-URJA-APP.git
+[submodule "Airbus-Hackathon-2021-Stewards"]
+	path = Airbus-Hackathon-2021-Stewards
+	url = https://github.com/Aryavarta-Labs/Airbus-Hackathon-2021-Stewards.git
+[submodule "Microsoft-Hackathon-2021-HealthAI"]
+	path = Microsoft-Hackathon-2021-HealthAI
+	url = https://github.com/Aryavarta-Labs/Microsoft-Hackathon-2021-HealthAI.git
+[submodule "Chubb-Internship-2021-Champtube-APP"]
+	path = Chubb-Internship-2021-Champtube-APP
+	url = https://github.com/Aryavarta-Labs/Chubb-Internship-2021-Champtube-APP.git
+[submodule "Twitter-Hackathon-2020-Profile-Analyser"]
+	path = Twitter-Hackathon-2020-Profile-Analyser
+	url = https://github.com/Aryavarta-Labs/Twitter-Hackathon-2020-Profile-Analyser
+[submodule "Personal-Project-2020-Sanjeevani-App"]
+	path = Personal-Project-2020-Sanjeevani-App
+	url = https://github.com/Aryavarta-Labs/Personal-Project-2020-Sanjeevani-App.git
